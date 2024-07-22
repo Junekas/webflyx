@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 c57b5e698ccb91e55d01ac9a3806f3d11aa4b6bb junekas <junekas@gmail.com> 1721678815 +0300	branch: Created from c57b5e6
+c57b5e698ccb91e55d01ac9a3806f3d11aa4b6bb fb159190fc6a7684d540899c579628314574ebcd junekas <junekas@gmail.com> 1721679278 +0300	commit: H: Add 'The spice must flow.' to dune.md
+fb159190fc6a7684d540899c579628314574ebcd 846403cce0e0543d8ce4719ab7cb91c560e28b28 junekas <junekas@gmail.com> 1721679351 +0300	commit: I: Add 'Fear is the mind-killer.' to dune.md
+846403cce0e0543d8ce4719ab7cb91c560e28b28 3b12f2477ee0cad09033b6dbd5b390094f67c00a junekas <junekas@gmail.com> 1721679379 +0300	rebase (finish): refs/heads/update_dune onto ab0278e396cef1efa051c8d55ddf18730d129c5c
+3b12f2477ee0cad09033b6dbd5b390094f67c00a b29158cdcf34aca759d6903e46c4d4e9fd36dbff junekas <junekas@gmail.com> 1721680778 +0300	commit: J: Overwrite titles.md with '* The Internship'
+b29158cdcf34aca759d6903e46c4d4e9fd36dbff 3b12f2477ee0cad09033b6dbd5b390094f67c00a junekas <junekas@gmail.com> 1721680909 +0300	reset: moving to HEAD~1
+3b12f2477ee0cad09033b6dbd5b390094f67c00a ab0278e396cef1efa051c8d55ddf18730d129c5c junekas <junekas@gmail.com> 1721681180 +0300	reset: moving to ab0278e
